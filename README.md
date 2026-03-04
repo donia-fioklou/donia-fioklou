@@ -5,9 +5,9 @@ Je conçois des applications web de bout en bout, du backend robuste à l’inte
 
 🌱 Mes domaines de spécialisation :
 
-Backend (70%) : Django, Flask, REST API, automatisation, pipelines de données
+Backend : Django, Flask, REST API, automatisation, pipelines de données
 
-Frontend (20%) : React, Next.js
+Frontend : React, Next.js
 
 Data & Analytics : Pandas, Numpy, Matplotlib, Streamlit, ReportLab
 
