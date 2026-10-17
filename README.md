@@ -1,33 +1,20 @@
-Hi there, I'm Donia Fioklou
+# Hi, I'm Donia Fioklou 
 
-🔭 Full Stack Developer passionné par la création de solutions digitales performantes, accessibles et évolutives.
-Je conçois des applications web de bout en bout, du backend robuste à l’interface utilisateur fluide.
+**Data Engineer (stage) · M1 Big Data – Sup de Vinci, Nantes**
+Je recherche un **stage de 3 mois en data engineering dès novembre 2026**.
 
-🌱 Mes domaines de spécialisation :
+Je conçois des pipelines de données fiables, de la collecte à la mise à disposition, avec un socle de développeur backend qui me permet de livrer en production.
 
-Backend : Django, Flask, REST API, automatisation, pipelines de données
+## 🛠️ Stack
 
-Frontend : React, Next.js
+| | |
+|---|---|
+| **Langages** | Python, SQL |
+| **Données** | PostgreSQL, SQl server, MySQl, Pandas, ETL, qualité des données, Airflow |
+| **Outils** | Docker, Git, GitHub/GitLab |
+| **Backend** | Django REST Framework, Flask |
 
-Data & Analytics : Pandas, Numpy, Matplotlib, Streamlit, ReportLab
+## 📫 Me contacter
 
-DevOps : Déploiement VPS,Docker, CI/CD, GitHub/GitLab
-
-👯 Je suis ouvert à de nouvelles opportunités en tant que :
-Full Stack Developer • Backend Engineer • Data Engineer junior • Software Engineer
-
-
-🌎 Retrouve-moi en ligne
-
-🌐 LinkedIn : linkedin.com/in/donia-fioklou
-
-💻 Portfolio : https://my-portfolio-eta-sable-40.vercel.app/
-
-📧 Email : fiokloudonia@gmail.com
-
-📱 Contact direct : +228 92 47 43 15
-
-<!---
-donia-fioklou/donia-fioklou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- LinkedIn : [linkedin.com/in/donia-fioklou](https://www.linkedin.com/in/donia-fioklou)
+- Email : fiokloudonia@gmail.com
